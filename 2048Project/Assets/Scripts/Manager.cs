@@ -58,6 +58,7 @@ public class Manager : MonoBehaviour
         CreateNun();
         CreateNun();
         UIFinsh.SetActive(false);
+        UISucceed.SetActive(false);
     }
 
     void CreateNun()

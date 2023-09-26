@@ -1,5 +1,7 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/a0GP6uzm4vOik4LM0HK8VA)
 
+https://kervengame.github.io/2048.github.io/
+
 《Unity 之 发布 WebGL 并部署到 GitHub 提供外部访问》
 
 [把Unity WebGL丢到Github上_webgl工程 如何放到git上_牙膏上的小苏打2333的博客-CSDN博客](https://blog.csdn.net/qq_26318597/article/details/112481452?spm=1001.2101.3001.6650.4&utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-4-112481452-blog-119709396.235^v38^pc_relevant_default_base&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-4-112481452-blog-119709396.235^v38^pc_relevant_default_base&utm_relevant_index=5)
